@@ -1,9 +1,16 @@
 ---
 title: /
-layout: home
+layout: default
 permalink: /
 ---
 
-# Lorem ipsum
+# emergence
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+Idea -- language model comes to understand gender, race, orientation in the world.
+
+---
+
+# Creator's Notes
+An adult's mastery of language and a child's knwoeldge of its content.
