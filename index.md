@@ -1,12 +1,14 @@
 ---
 title: /
-layout: default
+layout: page
 permalink: /
 ---
 
 # emergence
 
-
+<div class="typewriter">
+  <h1>The cat and the hat.</h1>
+</div>
 
 Idea -- language model comes to understand gender, race, orientation in the world.
 
