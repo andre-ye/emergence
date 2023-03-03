@@ -7,13 +7,11 @@ permalink: /
 # emergence
 
 <div class="typewriter">
-  <p>
+  <h1>
     
-    The cat and the hat.
+    hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.
     
-    Hi there.
-  
-  </p>
+  </h1>
 </div>
 
 Idea -- language model comes to understand gender, race, orientation in the world.
