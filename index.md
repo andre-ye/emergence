@@ -6,10 +6,12 @@ permalink: /
 
 # emergence
 
+This is a <span class="type" style="--n:53">CSS only solution for a multi-line typewriter effect.</span>
+
 <!-- <div class="typewriter"> -->
-  <p>
+<!--   <p>
     hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.hi my name isa dnree and i am a person i likev othe oa etoijsd  this is a funny moment hehehhe waht is going on??? ti dont understand what is going on.... but this is ok.
-  </p>
+  </p> -->
 <!-- </div> -->
 
 Idea -- language model comes to understand gender, race, orientation in the world.
